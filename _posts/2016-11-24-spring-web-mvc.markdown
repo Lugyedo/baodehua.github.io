@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "使用IntelliJ IDEA创建一个Spring MVC Web项目"
+title:  "使用IntelliJ IDEA创建Spring MVC Web项目"
 date:   2016-11-24 14:30:28
 categories: Spring
 ---
